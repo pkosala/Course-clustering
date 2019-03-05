@@ -1,0 +1,16 @@
+6 - has all the remaining orientation classes
+5 - has largest groups
+4 - has highest TA Count
+3 - has highest wikipages and external tool count
+2 - only 5 courses in this group - this is formed only because of the specified number of clusters, reduce k and check if they fall in their actual bucket.
+	DNP 601 - cluster 5
+	EXW 420 - cluster 4
+	EXW 494 - largest group
+	SWG 501 - 
+	SWG 531 - 
+1 - has highest assignments both graded and ungraded , quiz question
+	but quiz count is as much as other groups
+0 - could not figure out this -may be aply clustering on this.
+
+
+Clustering courses under cluster 0 from above. Below are the findings:
